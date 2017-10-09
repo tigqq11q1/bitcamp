@@ -1,4 +1,4 @@
-//ver 01
+﻿//ver 01
 //-표준 출력장치로 인사문구 출력하기
 //ver02 
 //학생 한명의 성적 점수를 출력하라!
@@ -20,6 +20,7 @@ public class App {
             float aver=sum/3.0f;
             System.out.printf("%-4s %4d %4d %4d %4d %6.1f\n"names,kor[i],eng[i],math[i],sum,aver);
         
+
         }
     
     }
